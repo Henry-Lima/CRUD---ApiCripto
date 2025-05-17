@@ -1,4 +1,4 @@
-import Rotas from './componentes/Rotas';
+import Rotas from './components/Rotas';
 
 export default function App() {
     return <Rotas />;

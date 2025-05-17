@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AppCriptos",
-    "slug": "AppCriptos",
+    "name": "CRUDApiReact",
+    "slug": "CRUDApiReact",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
